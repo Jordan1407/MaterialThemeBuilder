@@ -43,12 +43,12 @@
     <!--Color palette-->
 
     <color name="purple_200">#E8FF5C</color> <!--Color primary (dark)-->
-    <color name="purple_500">#7FA123</color> <!--Color primary (light)-->
+    <color name="green_2">#7FA123</color> <!--Color primary (light)-->
     <color name="purple_600">#E8FF5C</color> <!--Color primary variant (dark)-->
-    <color name="purple_700">#B4DF45</color> <!--Color primary variant (light)-->
+    <color name="green_1">#B4DF45</color> <!--Color primary variant (light)-->
 
-    <color name="green_200">#9E9895</color> <!--Color secondary-->
-    <color name="green_500">#676664</color> <!--Color secondary variant-->
+    <color name="gray_1">#9E9895</color> <!--Color secondary-->
+    <color name="gray_2">#676664</color> <!--Color secondary variant-->
 
     <color name="red_200">#cf6679</color> <!--Color error (dark)-->
     <color name="red_600">#b00020</color> <!--Color error (light)-->
