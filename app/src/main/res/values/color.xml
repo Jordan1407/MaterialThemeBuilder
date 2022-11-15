@@ -42,16 +42,16 @@
 
     <!--Color palette-->
 
-    <color name="purple_200">#E8FF5C</color> <!--Color primary (dark)-->
-    <color name="green_2">#7FA123</color> <!--Color primary (light)-->
-    <color name="purple_600">#E8FF5C</color> <!--Color primary variant (dark)-->
-    <color name="green_1">#B4DF45</color> <!--Color primary variant (light)-->
+    <color name="primary_dk">#E8FF5C</color> <!--Color primary (dark)-->
+    <color name="primary_lh">#7FA123</color> <!--Color primary (light)-->
+    <color name="primary_dk_var">#B4DF45</color> <!--Color primary variant (dark)-->
+    <color name="primary_lh_var">#B4DF45</color> <!--Color primary variant (light)-->
 
-    <color name="gray_1">#9E9895</color> <!--Color secondary-->
-    <color name="gray_2">#676664</color> <!--Color secondary variant-->
+    <color name="secondary">#9E9895</color> <!--Color secondary-->
+    <color name="secondary_var">#676664</color> <!--Color secondary variant-->
 
-    <color name="red_200">#cf6679</color> <!--Color error (dark)-->
-    <color name="red_600">#b00020</color> <!--Color error (light)-->
+    <color name="error_dk">#cf6679</color> <!--Color error (dark)-->
+    <color name="error_lh">#b00020</color> <!--Color error (light)-->
 
     <!--Color surface (light), color on error (light), -->
     <!--color on surface (dark), color on surface (dark)-->

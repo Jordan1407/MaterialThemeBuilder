@@ -1,4 +1,131 @@
-rlay_AppCompat
+earanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen
+?ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year
+CShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox
+!ShapeAppearanceOverlay_TopLeftCut
+2ShapeAppearanceOverlay_TopRightDifferentCornerSize
+"ShapeAppearance_MaterialComponents
+1ShapeAppearance_MaterialComponents_LargeComponent
+2ShapeAppearance_MaterialComponents_MediumComponent
+1ShapeAppearance_MaterialComponents_SmallComponent
+'ShapeAppearance_MaterialComponents_Test
+*ShapeAppearance_MaterialComponents_Tooltip
+&ShapeAppearance_MyTheme_LargeComponent
+'ShapeAppearance_MyTheme_MediumComponent
+&ShapeAppearance_MyTheme_SmallComponent
+TestStyleWithLineHeight
+!TestStyleWithLineHeightAppearance
+%TestStyleWithThemeLineHeightAttribute
+TestStyleWithoutLineHeight
+TestThemeWithLineHeight
+TestThemeWithLineHeightDisabled
+CTest_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day
+.Test_Theme_MaterialComponents_MaterialCalendar
+/Test_Widget_MaterialComponents_MaterialCalendar
+3Test_Widget_MaterialComponents_MaterialCalendar_Day
+<Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected
+TextAppearance_AppCompat
+TextAppearance_AppCompat_Body1
+TextAppearance_AppCompat_Body2
+TextAppearance_AppCompat_Button
+ TextAppearance_AppCompat_Caption
+!TextAppearance_AppCompat_Display1
+!TextAppearance_AppCompat_Display2
+!TextAppearance_AppCompat_Display3
+!TextAppearance_AppCompat_Display4
+!TextAppearance_AppCompat_Headline
+ TextAppearance_AppCompat_Inverse
+TextAppearance_AppCompat_Large
+&TextAppearance_AppCompat_Large_Inverse
+4TextAppearance_AppCompat_Light_SearchResult_Subtitle
+1TextAppearance_AppCompat_Light_SearchResult_Title
+5TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+5TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+TextAppearance_AppCompat_Medium
+'TextAppearance_AppCompat_Medium_Inverse
+TextAppearance_AppCompat_Menu
+.TextAppearance_AppCompat_SearchResult_Subtitle
++TextAppearance_AppCompat_SearchResult_Title
+TextAppearance_AppCompat_Small
+&TextAppearance_AppCompat_Small_Inverse
+ TextAppearance_AppCompat_Subhead
+(TextAppearance_AppCompat_Subhead_Inverse
+TextAppearance_AppCompat_Title
+&TextAppearance_AppCompat_Title_Inverse
+ TextAppearance_AppCompat_Tooltip
+.TextAppearance_AppCompat_Widget_ActionBar_Menu
+2TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+:TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+/TextAppearance_AppCompat_Widget_ActionBar_Title
+7TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+3TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+;TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+0TextAppearance_AppCompat_Widget_ActionMode_Title
+8TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+&TextAppearance_AppCompat_Widget_Button
+9TextAppearance_AppCompat_Widget_Button_Borderless_Colored
+.TextAppearance_AppCompat_Widget_Button_Colored
+.TextAppearance_AppCompat_Widget_Button_Inverse
+,TextAppearance_AppCompat_Widget_DropDownItem
+0TextAppearance_AppCompat_Widget_PopupMenu_Header
+/TextAppearance_AppCompat_Widget_PopupMenu_Large
+/TextAppearance_AppCompat_Widget_PopupMenu_Small
+&TextAppearance_AppCompat_Widget_Switch
+4TextAppearance_AppCompat_Widget_TextView_SpinnerItem
+"TextAppearance_Compat_Notification
+'TextAppearance_Compat_Notification_Info
+-TextAppearance_Compat_Notification_Info_Media
+(TextAppearance_Compat_Notification_Line2
+.TextAppearance_Compat_Notification_Line2_Media
+(TextAppearance_Compat_Notification_Media
+'TextAppearance_Compat_Notification_Time
+-TextAppearance_Compat_Notification_Time_Media
+(TextAppearance_Compat_Notification_Title
+.TextAppearance_Compat_Notification_Title_Media
+0TextAppearance_Design_CollapsingToolbar_Expanded
+TextAppearance_Design_Counter
+&TextAppearance_Design_Counter_Overflow
+TextAppearance_Design_Error
+ TextAppearance_Design_HelperText
+TextAppearance_Design_Hint
+!TextAppearance_Design_Placeholder
+TextAppearance_Design_Prefix
+&TextAppearance_Design_Snackbar_Message
+TextAppearance_Design_Suffix
+TextAppearance_Design_Tab
+'TextAppearance_MaterialComponents_Badge
+'TextAppearance_MaterialComponents_Body1
+'TextAppearance_MaterialComponents_Body2
+(TextAppearance_MaterialComponents_Button
+)TextAppearance_MaterialComponents_Caption
+&TextAppearance_MaterialComponents_Chip
++TextAppearance_MaterialComponents_Headline1
++TextAppearance_MaterialComponents_Headline2
++TextAppearance_MaterialComponents_Headline3
++TextAppearance_MaterialComponents_Headline4
++TextAppearance_MaterialComponents_Headline5
++TextAppearance_MaterialComponents_Headline6
+*TextAppearance_MaterialComponents_Overline
++TextAppearance_MaterialComponents_Subtitle1
++TextAppearance_MaterialComponents_Subtitle2
+)TextAppearance_MaterialComponents_Tooltip
+TextAppearance_MyTheme_Body1
+TextAppearance_MyTheme_Body2
+TextAppearance_MyTheme_Button
+TextAppearance_MyTheme_Caption
+ TextAppearance_MyTheme_Headline1
+ TextAppearance_MyTheme_Headline2
+ TextAppearance_MyTheme_Headline3
+ TextAppearance_MyTheme_Headline4
+ TextAppearance_MyTheme_Headline5
+ TextAppearance_MyTheme_Headline6
+TextAppearance_MyTheme_Overline
+ TextAppearance_MyTheme_Subtitle1
+ TextAppearance_MyTheme_Subtitle2
+1TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+0TextAppearance_Widget_AppCompat_Toolbar_Subtitle
+-TextAppearance_Widget_AppCompat_Toolbar_Title
+ThemeOverlayColorAccentRed
+ThemeOverlay_AppCompat
  ThemeOverlay_AppCompat_ActionBar
 ThemeOverlay_AppCompat_Dark
 %ThemeOverlay_AppCompat_Dark_ActionBar
@@ -312,8 +439,8 @@ IWidget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu
  
 
  
- È¹   Ê20B R0X†Pº	€€°ðÀ>R	0X†Pº	‚€°ðÀ>R
-0X†Pº	„€°ðÀ>R0X†Pº	†€°ðÀ>R0X†Pº	ˆ€°ðÀ>R0X†Pº	Š€°ðÀ>R0X†Pº	Œ€°ðÀ>R0X†Pº	Ž€°ðÀ>R0X†Pº	€°ðÀ>R0X†Pº	’€°ðÀ>R0X†Pº	”€°ðÀ>R0X†Pº	–€°ðÀ>R0X†Pº	˜€°ðÀ>R0X†Pº	š€°ðÀ>R0X†Pº	œ€°ðÀ>R0X†Pº	ž€°ðÀ>R0X†Pº	 €°ðÀ>R0X†Pº	¢€°ðÀ>R0X†Pº	¤€°ðÀ>R0X†Pº	¦€°ðÀ>R0X†Pº	¨€°ðÀ>R0X†Pº	ª€°ðÀ>R0X†Pº	¬€°ðÀ>R0X†Pº	®€°ðÀ>R 0X†Pº	°€°ðÀ>R!0X†Pº	²€°ðÀ>R"0X†Pº	´€°ðÀ>R#0X†Pº	¶€°ðÀ>R$0X†Pº	¸€°ðÀ>R%0X†Pº	º€°ðÀ>R&0X†Pº	¼€°ðÀ>R'0X†Pº	¾€°ðÀ>R(0X†Pº	À€°ðÀ>R)0X†Pº	Â€°ðÀ>R*0X†Pº	Ä€°ðÀ>R+0X†Pº	Æ€°ðÀ>R,0X†Pº	È€°ðÀ>R-0X†Pº	Ê€°ðÀ>R.0X†Pº	Ì€°ðÀ>R/0X†Pº	Î€°ðÀ>R00X†Pº	Ð€°ðÀ>R10X†Pº	Ò€°ðÀ>R20X†Pº	Ô€°ðÀ>R30X†Pº	Ö€°ðÀ>R40X†Pº	Ø€°ðÀ>R50X†Pº	Ú€°ðÀ>R60X†Pº	Ü€°ðÀ>R70X†Pº	Þ€°ðÀ>R80X†Pº	à€°ðÀ>R90X†Pº	â€°ðÀ>R:0X†Pº	ä€°ðÀ>R;0X†Pº	æ€°ðÀ>R<0X†Pº	è€°ðÀ>R=0X†Pº	ê€°ðÀ>R>0X†Pº	ì€°ðÀ>R?0X†Pº	î€°ðÀ>R@0X†Pº	ð€°ðÀ>RA0X†Pº	ò€°ðÀ>RB0X†Pº	ô€°ðÀ>RC0X†Pº	ö€°ðÀ>RD0X†Pº	ø€°ðÀ>RE0X†Pº	ú€°ðÀ>RF0X†Pº	ü€°ðÀ>RG0X†Pº	þ€°ðÀ>RH0X†Pº	€°ðÀ>RI0X†Pº	‚°ðÀ>RJ0X†Pº	„°ðÀ>RK0X†Pº	†°ðÀ>RL0X†Pº	ˆ°ðÀ>RM0X†Pº	Š°ðÀ>RN0X†Pº	Œ°ðÀ>RO0X†Pº	Ž°ðÀ>RP0X†Pº	°ðÀ>RQ0X†Pº	’°ðÀ>RR0X†Pº	”°ðÀ>RS0X†Pº	–°ðÀ>RT0X†Pº	˜°ðÀ>RU0X†Pº	š°ðÀ>RV0X†Pº	œ°ðÀ>RW0X†Pº	ž°ðÀ>RX0X†Pº	 °ðÀ>RY0X†Pº	¢°ðÀ>RZ0X†Pº	¤°ðÀ>R[0X†Pº	¦°ðÀ>R\0X†Pº	¨°ðÀ>R]0X†Pº	ª°ðÀ>R^0X†Pº	¬°ðÀ>R_0X†Pº	®°ðÀ>R`0X†Pº	°°ðÀ>Ra0X†Pº	²°ðÀ>Rb0X†Pº	´°ðÀ>Rc0X†Pº	¶°ðÀ>Rd0X†Pº	¸°ðÀ>Re0X†Pº	º°ðÀ>Rf0X†Pº	¼°ðÀ>Rg0X†Pº	¾°ðÀ>Rh0X†Pº	À°ðÀ>Ri0X†Pº	Â°ðÀ>Rj0X†Pº	Ä°ðÀ>Rk0X†Pº	Æ°ðÀ>Rl0X†Pº	È°ðÀ>Rm0X†Pº	Ê°ðÀ>Rn0X†Pº	Ì°ðÀ>Ro0X†Pº	Î°ðÀ>Rp0X†Pº	Ð°ðÀ>Rq0X†Pº	Ò°ðÀ>Rr0X†Pº	Ô°ðÀ>Rs0X†Pº	Ö°ðÀ>Rt0X†Pº	Ø°ðÀ>Ru0X†Pº	Ú°ðÀ>Rv0X†Pº	Ü°ðÀ>Rw0X†Pº	Þ°ðÀ>Rx0X†Pº	à°ðÀ>Ry0X†Pº	â°ðÀ>Rz0X†Pº	ä°ðÀ>R{0X†Pº	æ°ðÀ>R|0X†Pº	è°ðÀ>R}0X†Pº	ê°ðÀ>R~0X†Pº	ì°ðÀ>R0X†Pº	î°ðÀ>R€0X†Pº	ð°ðÀ>R0X†Pº	ò°ðÀ>R‚0X†Pº	ô°ðÀ>Rƒ0X†Pº	ö°ðÀ>R„0X†Pº	ø°ðÀ>R…0X†Pº	ú°ðÀ>R†0X†Pº	ü°ðÀ>R‡0X†Pº	þ°ðÀ>Rˆ0X†Pº	€‚°ðÀ>R‰0X†Pº	‚‚°ðÀ>RŠ0X†Pº	„‚°ðÀ>R‹0X†Pº	†‚°ðÀ>RŒ0X†Pº	ˆ‚°ðÀ>R0X†Pº	Š‚°ðÀ>RŽ0X†Pº	Œ‚°ðÀ>R0X†Pº	Ž‚°ðÀ>R0X†Pº	‚°ðÀ>R‘0X†Pº	’‚°ðÀ>R’0X†Pº	”‚°ðÀ>R“0X†Pº	–‚°ðÀ>R”0X†Pº	˜‚°ðÀ>R•0X†Pº	š‚°ðÀ>R–0X†Pº	œ‚°ðÀ>R—0X†Pº	ž‚°ðÀ>R˜0X†Pº	 ‚°ðÀ>R™0X†Pº	¢‚°ðÀ>Rš0X†Pº	¤‚°ðÀ>R›0X†Pº	¦‚°ðÀ>Rœ0X†Pº	¨‚°ðÀ>R0X†Pº	ª‚°ðÀ>Rž0X†Pº	¬‚°ðÀ>RŸ0X†Pº	®‚°ðÀ>R 0X†Pº	°‚°ðÀ>R¡0X†Pº	²‚°ðÀ>R¢0X†Pº	´‚°ðÀ>R£0X†Pº	¶‚°ðÀ>R¤0X†Pº	¸‚°ðÀ>R¥0X†Pº	º‚°ðÀ>R¦0X†Pº	¼‚°ðÀ>R§0X†Pº	¾‚°ðÀ>R¨0X†Pº	À‚°ðÀ>R©0X†Pº	Â‚°ðÀ>Rª0X†Pº	Ä‚°ðÀ>R«0X†Pº	Æ‚°ðÀ>R¬0X†Pº	È‚°ðÀ>R­0X†Pº	Ê‚°ðÀ>R®0X†Pº	Ì‚°ðÀ>R¯0X†Pº	Î‚°ðÀ>R°0X†Pº	Ð‚°ðÀ>R±0X†Pº	Ò‚°ðÀ>R²0X†Pº	Ô‚°ðÀ>R³0X†Pº	Ö‚°ðÀ>R´0X†Pº	Ø‚°ðÀ>Rµ0X†Pº	Ú‚°ðÀ>R¶0X†Pº	Ü‚°ðÀ>R·0X†Pº	Þ‚°ðÀ>R¸0X†Pº	à‚°ðÀ>R¹0X†Pº	â‚°ðÀ>Rº0X†Pº	ä‚°ðÀ>R»0X†Pº	æ‚°ðÀ>R¼0X†Pº	è‚°ðÀ>R½0X†Pº	ê‚°ðÀ>R¾0X†Pº	ì‚°ðÀ>R¿0X†Pº	î‚°ðÀ>RÀ0X†Pº	ð‚°ðÀ>RÁ0X†Pº	ò‚°ðÀ>RÂ0X†Pº	ô‚°ðÀ>RÃ0X†Pº	ö‚°ðÀ>RÄ0X†Pº	ø‚°ðÀ>RÅ0X†Pº	ú‚°ðÀ>RÆ0X†Pº	ü‚°ðÀ>RÇ0X†Pº	þ‚°ðÀ>RÈ0X†Pº	€ƒ°ðÀ>RÉ0X†Pº	‚ƒ°ðÀ>RÊ0X†Pº	„ƒ°ðÀ>RË0X†Pº	†ƒ°ðÀ>RÌ0X†Pº	ˆƒ°ðÀ>RÍ0X†Pº	Šƒ°ðÀ>RÎ0X†Pº	Œƒ°ðÀ>RÏ0X†Pº	Žƒ°ðÀ>RÐ0X†Pº	ƒ°ðÀ>RÑ0X†Pº	’ƒ°ðÀ>RÒ0X†Pº	”ƒ°ðÀ>RÓ0X†Pº	–ƒ°ðÀ>RÔ0X†Pº	˜ƒ°ðÀ>RÕ0X†Pº	šƒ°ðÀ>RÖ0X†Pº	œƒ°ðÀ>R×0X†Pº	žƒ°ðÀ>RØ0X†Pº	 ƒ°ðÀ>  >
+ Ö¹   Ê20B R0X†Pº	€€°ðÀ>R	0X†Pº	‚€°ðÀ>R
+0X†Pº	„€°ðÀ>R0X†Pº	†€°ðÀ>R0X†Pº	ˆ€°ðÀ>R0X†Pº	Š€°ðÀ>R0X†Pº	Œ€°ðÀ>R0X†Pº	Ž€°ðÀ>R0X†Pº	€°ðÀ>R0X†Pº	’€°ðÀ>R0X†Pº	”€°ðÀ>R0X†Pº	–€°ðÀ>R0X†Pº	˜€°ðÀ>R0X†Pº	š€°ðÀ>R0X†Pº	œ€°ðÀ>R0X†Pº	ž€°ðÀ>R0X†Pº	 €°ðÀ>R0X†Pº	¢€°ðÀ>R0X†Pº	¤€°ðÀ>R0X†Pº	¦€°ðÀ>R0X†Pº	¨€°ðÀ>R0X†Pº	ª€°ðÀ>R0X†Pº	¬€°ðÀ>R0X†Pº	®€°ðÀ>R 0X†Pº	°€°ðÀ>R!0X†Pº	²€°ðÀ>R"0X†Pº	´€°ðÀ>R#0X†Pº	¶€°ðÀ>R$0X†Pº	¸€°ðÀ>R%0X†Pº	º€°ðÀ>R&0X†Pº	¼€°ðÀ>R'0X†Pº	¾€°ðÀ>R(0X†Pº	À€°ðÀ>R)0X†Pº	Â€°ðÀ>R*0X†Pº	Ä€°ðÀ>R+0X†Pº	Æ€°ðÀ>R,0X†Pº	È€°ðÀ>R-0X†Pº	Ê€°ðÀ>R.0X†Pº	Ì€°ðÀ>R/0X†Pº	Î€°ðÀ>R00X†Pº	Ð€°ðÀ>R10X†Pº	Ò€°ðÀ>R20X†Pº	Ô€°ðÀ>R30X†Pº	Ö€°ðÀ>R40X†Pº	Ø€°ðÀ>R50X†Pº	Ú€°ðÀ>R60X†Pº	Ü€°ðÀ>R70X†Pº	Þ€°ðÀ>R80X†Pº	à€°ðÀ>R90X†Pº	â€°ðÀ>R:0X†Pº	ä€°ðÀ>R;0X†Pº	æ€°ðÀ>R<0X†Pº	è€°ðÀ>R=0X†Pº	ê€°ðÀ>R>0X†Pº	ì€°ðÀ>R?0X†Pº	î€°ðÀ>R@0X†Pº	ð€°ðÀ>RA0X†Pº	ò€°ðÀ>RB0X†Pº	ô€°ðÀ>RC0X†Pº	ö€°ðÀ>RD0X†Pº	ø€°ðÀ>RE0X†Pº	ú€°ðÀ>RF0X†Pº	ü€°ðÀ>RG0X†Pº	þ€°ðÀ>RH0X†Pº	€°ðÀ>RI0X†Pº	‚°ðÀ>RJ0X†Pº	„°ðÀ>RK0X†Pº	†°ðÀ>RL0X†Pº	ˆ°ðÀ>RM0X†Pº	Š°ðÀ>RN0X†Pº	Œ°ðÀ>RO0X†Pº	Ž°ðÀ>RP0X†Pº	°ðÀ>RQ0X†Pº	’°ðÀ>RR0X†Pº	”°ðÀ>RS0X†Pº	–°ðÀ>RT0X†Pº	˜°ðÀ>RU0X†Pº	š°ðÀ>RV0X†Pº	œ°ðÀ>RW0X†Pº	ž°ðÀ>RX0X†Pº	 °ðÀ>RY0X†Pº	¢°ðÀ>RZ0X†Pº	¤°ðÀ>R[0X†Pº	¦°ðÀ>R\0X†Pº	¨°ðÀ>R]0X†Pº	ª°ðÀ>R^0X†Pº	¬°ðÀ>R_0X†Pº	®°ðÀ>R`0X†Pº	°°ðÀ>Ra0X†Pº	²°ðÀ>Rb0X†Pº	´°ðÀ>Rc0X†Pº	¶°ðÀ>Rd0X†Pº	¸°ðÀ>Re0X†Pº	º°ðÀ>Rf0X†Pº	¼°ðÀ>Rg0X†Pº	¾°ðÀ>Rh0X†Pº	À°ðÀ>Ri0X†Pº	Â°ðÀ>Rj0X†Pº	Ä°ðÀ>Rk0X†Pº	Æ°ðÀ>Rl0X†Pº	È°ðÀ>Rm0X†Pº	Ê°ðÀ>Rn0X†Pº	Ì°ðÀ>Ro0X†Pº	Î°ðÀ>Rp0X†Pº	Ð°ðÀ>Rq0X†Pº	Ò°ðÀ>Rr0X†Pº	Ô°ðÀ>Rs0X†Pº	Ö°ðÀ>Rt0X†Pº	Ø°ðÀ>Ru0X†Pº	Ú°ðÀ>Rv0X†Pº	Ü°ðÀ>Rw0X†Pº	Þ°ðÀ>Rx0X†Pº	à°ðÀ>Ry0X†Pº	â°ðÀ>Rz0X†Pº	ä°ðÀ>R{0X†Pº	æ°ðÀ>R|0X†Pº	è°ðÀ>R}0X†Pº	ê°ðÀ>R~0X†Pº	ì°ðÀ>R0X†Pº	î°ðÀ>R€0X†Pº	ð°ðÀ>R0X†Pº	ò°ðÀ>R‚0X†Pº	ô°ðÀ>Rƒ0X†Pº	ö°ðÀ>R„0X†Pº	ø°ðÀ>R…0X†Pº	ú°ðÀ>R†0X†Pº	ü°ðÀ>R‡0X†Pº	þ°ðÀ>Rˆ0X†Pº	€‚°ðÀ>R‰0X†Pº	‚‚°ðÀ>RŠ0X†Pº	„‚°ðÀ>R‹0X†Pº	†‚°ðÀ>RŒ0X†Pº	ˆ‚°ðÀ>R0X†Pº	Š‚°ðÀ>RŽ0X†Pº	Œ‚°ðÀ>R0X†Pº	Ž‚°ðÀ>R0X†Pº	‚°ðÀ>R‘0X†Pº	’‚°ðÀ>R’0X†Pº	”‚°ðÀ>R“0X†Pº	–‚°ðÀ>R”0X†Pº	˜‚°ðÀ>R•0X†Pº	š‚°ðÀ>R–0X†Pº	œ‚°ðÀ>R—0X†Pº	ž‚°ðÀ>R˜0X†Pº	 ‚°ðÀ>R™0X†Pº	¢‚°ðÀ>Rš0X†Pº	¤‚°ðÀ>R›0X†Pº	¦‚°ðÀ>Rœ0X†Pº	¨‚°ðÀ>R0X†Pº	ª‚°ðÀ>Rž0X†Pº	¬‚°ðÀ>RŸ0X†Pº	®‚°ðÀ>R 0X†Pº	°‚°ðÀ>R¡0X†Pº	²‚°ðÀ>R¢0X†Pº	´‚°ðÀ>R£0X†Pº	¶‚°ðÀ>R¤0X†Pº	¸‚°ðÀ>R¥0X†Pº	º‚°ðÀ>R¦0X†Pº	¼‚°ðÀ>R§0X†Pº	¾‚°ðÀ>R¨0X†Pº	À‚°ðÀ>R©0X†Pº	Â‚°ðÀ>Rª0X†Pº	Ä‚°ðÀ>R«0X†Pº	Æ‚°ðÀ>R¬0X†Pº	È‚°ðÀ>R­0X†Pº	Ê‚°ðÀ>R®0X†Pº	Ì‚°ðÀ>R¯0X†Pº	Î‚°ðÀ>R°0X†Pº	Ð‚°ðÀ>R±0X†Pº	Ò‚°ðÀ>R²0X†Pº	Ô‚°ðÀ>R³0X†Pº	Ö‚°ðÀ>R´0X†Pº	Ø‚°ðÀ>Rµ0X†Pº	Ú‚°ðÀ>R¶0X†Pº	Ü‚°ðÀ>R·0X†Pº	Þ‚°ðÀ>R¸0X†Pº	à‚°ðÀ>R¹0X†Pº	â‚°ðÀ>Rº0X†Pº	ä‚°ðÀ>R»0X†Pº	æ‚°ðÀ>R¼0X†Pº	è‚°ðÀ>R½0X†Pº	ê‚°ðÀ>R¾0X†Pº	ì‚°ðÀ>R¿0X†Pº	î‚°ðÀ>RÀ0X†Pº	ð‚°ðÀ>RÁ0X†Pº	ò‚°ðÀ>RÂ0X†Pº	ô‚°ðÀ>RÃ0X†Pº	ö‚°ðÀ>RÄ0X†Pº	ø‚°ðÀ>RÅ0X†Pº	ú‚°ðÀ>RÆ0X†Pº	ü‚°ðÀ>RÇ0X†Pº	þ‚°ðÀ>RÈ0X†Pº	€ƒ°ðÀ>RÉ0X†Pº	‚ƒ°ðÀ>RÊ0X†Pº	„ƒ°ðÀ>RË0X†Pº	†ƒ°ðÀ>RÌ0X†Pº	ˆƒ°ðÀ>RÍ0X†Pº	Šƒ°ðÀ>RÎ0X†Pº	Œƒ°ðÀ>RÏ0X†Pº	Žƒ°ðÀ>RÐ0X†Pº	ƒ°ðÀ>RÑ0X†Pº	’ƒ°ðÀ>RÒ0X†Pº	”ƒ°ðÀ>RÓ0X†Pº	–ƒ°ðÀ>RÔ0X†Pº	˜ƒ°ðÀ>RÕ0X†Pº	šƒ°ðÀ>RÖ0X†Pº	œƒ°ðÀ>R×0X†Pº	žƒ°ðÀ>RØ0X†Pº	 ƒ°ðÀ>  L
 io
 material
 materialthemebuilder
@@ -411,10 +538,10 @@ $design_default_color_primary_variant
 dim_foreground_material_light
 error_color_material_dark
 error_color_material_light
+error_dk
+error_lh
 foreground_material_dark
 foreground_material_light
-	green_200
-	green_500
 highlighted_text_material_dark
 highlighted_text_material_light
 ic_launcher_background
@@ -503,28 +630,26 @@ $mtrl_tabs_legacy_text_color_selector
 4notification_material_background_media_default_color
 primary_dark_material_dark
 primary_dark_material_light
+
+primary_dk
+primary_dk_var
+
+primary_lh
+primary_lh_var
 primary_material_dark
 primary_material_light
 "primary_text_default_material_dark
 #primary_text_default_material_light
 #primary_text_disabled_material_dark
 $primary_text_disabled_material_light
-
-purple_200
-
-purple_500
-
-purple_600
-
-purple_700
-red_200
-red_600
 ripple_material_dark
 ripple_material_light
+	secondary
 $secondary_text_default_material_dark
 %secondary_text_default_material_light
 %secondary_text_disabled_material_dark
 &secondary_text_disabled_material_light
+secondary_var
 #switch_thumb_disabled_material_dark
 $switch_thumb_disabled_material_light
 switch_thumb_material_dark

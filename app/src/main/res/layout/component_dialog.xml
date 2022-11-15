@@ -32,7 +32,8 @@
       android:text="@string/dialog_label_title"
       app:linkUrl="https://material.io/design/components/dialogs.html"
       app:layout_constraintStart_toStartOf="parent"
-      app:layout_constraintTop_toTopOf="parent" />
+      app:layout_constraintTop_toTopOf="parent"
+        />
 
     <Button
       android:id="@+id/button"

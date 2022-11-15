@@ -447,10 +447,10 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="error_color_material_dark">#ff7043</color>
     <color name="error_color_material_light">#ff5722</color>
+    <color name="error_dk">#cf6679</color>
+    <color name="error_lh">#b00020</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="green_200">#9E9895</color>
-    <color name="green_500">#676664</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="ic_launcher_background">#FFFFFF</color>
@@ -479,24 +479,24 @@
     <color name="notification_material_background_media_default_color">#ff424242</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
+    <color name="primary_dk">#E8FF5C</color>
+    <color name="primary_dk_var">#E8FF5C</color>
+    <color name="primary_lh">#7FA123</color>
+    <color name="primary_lh_var">#B4DF45</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
     <color name="primary_material_light">@color/material_grey_100</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="purple_200">#E8FF5C</color>
-    <color name="purple_500">#7FA123</color>
-    <color name="purple_600">#E8FF5C</color>
-    <color name="purple_700">#B4DF45</color>
-    <color name="red_200">#cf6679</color>
-    <color name="red_600">#b00020</color>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary">#9E9895</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="secondary_var">#676664</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
@@ -1514,29 +1514,29 @@
         <item name="android:navigationBarDividerColor" ns2:ignore="NewApi">?attr/colorControlHighlight</item>
     </style>
     <style name="Base.Theme.MyApp" parent="Base.Theme.MaterialThemeBuilder">
-        
-        
-        
-        
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorSecondary">@color/green_200</item>
-        <item name="colorSecondaryVariant">@color/green_500</item>
-        
-        
-        
-        
+        <!--Material color attributes (light theme) -->
+        <!--colorPrimary colors map to components and elements, such as app bars and buttons. -->
+        <!--colorSecondary colors are most often used as accents on components, such as FABs and -->
+        <!--selection controls.-->
+        <item name="colorPrimary">@color/primary_lh</item>
+        <item name="colorPrimaryVariant">@color/primary_lh_var</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_var</item>
+        <!--colorBackground appears behind scrollable content and is used for the default window-->
+        <!--background. colorSurface is mapped to the surface of components such as cards, sheets-->
+        <!--and menus. colorError is used to indicate an error state for components such as-->
+        <!--text fields.-->
         <item name="android:colorBackground">@color/white_50</item>
         <item name="colorSurface">@color/white_50</item>
-        <item name="colorError">@color/red_600</item>
-        
-        
+        <item name="colorError">@color/error_lh</item>
+        <!--"On" colors define how text, icons and strokes are colored in relation to the surface-->
+        <!--on which they appear.-->
         <item name="colorOnPrimary">@color/white_50</item>
         <item name="colorOnSecondary">@color/black_900</item>
         <item name="colorOnBackground">@color/black_900</item>
         <item name="colorOnSurface">@color/black_900</item>
         <item name="colorOnError">@color/white_50</item>
-        
+        <!--Material type attributes-->
         <item name="textAppearanceHeadline1">@style/TextAppearance.MyTheme.Headline1</item>
         <item name="textAppearanceHeadline2">@style/TextAppearance.MyTheme.Headline2</item>
         <item name="textAppearanceHeadline3">@style/TextAppearance.MyTheme.Headline3</item>
@@ -1550,11 +1550,11 @@
         <item name="textAppearanceButton">@style/TextAppearance.MyTheme.Button</item>
         <item name="textAppearanceCaption">@style/TextAppearance.MyTheme.Caption</item>
         <item name="textAppearanceOverline">@style/TextAppearance.MyTheme.Overline</item>
-        
+        <!--Material shape attributes-->
         <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MyTheme.SmallComponent</item>
         <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MyTheme.MediumComponent</item>
         <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyTheme.LargeComponent</item>
-        
+        <!--Component styles-->
         <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert</item>
         <item name="bottomSheetDialogTheme">@style/ThemeOverlay.MyTheme.BottomSheetDialog</item>
         <item name="navigationViewStyle">@style/Widget.MyTheme.NavigationView</item>
@@ -3345,13 +3345,17 @@
     <item name="cornerSize">4dp</item>
   </style>
     <style name="ShapeAppearance.MyTheme.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
-        
+        <!--Your custom shape here-->
+
     </style>
     <style name="ShapeAppearance.MyTheme.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
-        
+        <!--Your custom shape here-->
+
     </style>
     <style name="ShapeAppearance.MyTheme.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
-        
+        <!--Your custom shape here-->
+        <item name="android:radioButtonStyle">@color/error_dk</item>
+
     </style>
     <style name="ShapeAppearanceOverlay" parent=""/>
     <style name="ShapeAppearanceOverlay.BottomLeftDifferentCornerSize">
@@ -3640,52 +3644,76 @@
     <item name="android:textColor">?attr/colorOnPrimary</item>
   </style>
     <style name="TextAppearance.MyTheme.Body1" parent="TextAppearance.MaterialComponents.Body1">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">14dp</item>
+
     </style>
     <style name="TextAppearance.MyTheme.Body2" parent="TextAppearance.MaterialComponents.Body2">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">12dp</item>
+
     </style>
     <style name="TextAppearance.MyTheme.Button" parent="TextAppearance.MaterialComponents.Button">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:inputType">textCapCharacters</item>
+
     </style>
     <style name="TextAppearance.MyTheme.Caption" parent="TextAppearance.MaterialComponents.Caption">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">12dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
-        <!--Your custom type style here-->
-        <item name="fontFamily">Poor Story</item>
+        
+        <item name="fontFamily">Montserrat</item>
         <item name="android:textSize">80dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
-        <!--Your custom type style here-->
+        
         <item name="fontFamily">Montserrat</item>
         <item name="android:textSize">65dp</item>
 
     </style>
     <style name="TextAppearance.MyTheme.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
-        <!--Your custom type style here-->
+        
         <item name="fontFamily">Montserrat</item>
         <item name="android:textSize">50dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
-        <!--Your custom type style here-->
+        
         <item name="fontFamily">Montserrat</item>
         <item name="android:textSize">35dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">28dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">20dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Overline" parent="TextAppearance.MaterialComponents.Overline">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:inputType">textCapCharacters</item>
+
     </style>
     <style name="TextAppearance.MyTheme.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">18dp</item>
     </style>
     <style name="TextAppearance.MyTheme.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
-        <!--Your custom type style here-->
+        
+        <item name="fontFamily">Montserrat</item>
+        <item name="android:textSize">16dp</item>
     </style>
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item">
     </style>
