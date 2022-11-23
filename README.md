@@ -15,9 +15,9 @@ Secundario: #9E9895    xº#676664
 
 ## Cambio en appBar
 ![color.xml](img/appBar.png) 
-(![color.xml](img/appBarDK.png)
+![color.xml](img/appBarDK.png)
 
 
 ## Cambio de fuente y tamaño 
 Fuente: Montserrat
-![type.xml](img/FontSize.png)
+![type.xml](img/FontsSize.png)
