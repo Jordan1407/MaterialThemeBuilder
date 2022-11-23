@@ -10,8 +10,8 @@ Secundario: #9E9895    xº#676664
 ![color.xml](img/colorsDK.png)
 
 ## Vista en botones
-![color.xml](img/buttonFab.png)
-![color.xml](img/buttonFabDK.png)
+![color.xml](img/ButtonFab.png)
+![color.xml](img/ButtonFabDK.png)
 
 ## Cambio en appBar
 ![color.xml](img/appBar.png) 
