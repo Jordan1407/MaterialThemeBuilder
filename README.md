@@ -6,7 +6,7 @@ Priamario:  #E8FF5C    #B4DF45   #7FA123
 Secundario: #9E9895 #676664
 
 ![color.xml](img/colors.png) 
-![color.xml](MaterialThemeBuilder/img/colorsDK.png)
+![color.xml](img/colorsDK.png)
 ![color.xml](img/buttonFab.png) (img/buttonFabDK.png)
 (img/appBar.png) (img/appBarDK.png)
 (img/ButtonFab.png) (img/ButtonFabDK.png)
